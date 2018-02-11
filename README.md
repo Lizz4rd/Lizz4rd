@@ -19,12 +19,6 @@ for each chunk
     (The initial values in w[0..63] don't matter, so many implementations zero them here)
     copy chunk into first 16 words w[0..15] of the message schedule array
 
-    Extend the first 16 words into the remaining 48 words w[16..63] of the message schedule array:
-    for i from 16 to 63
-        s0 := (w[i-15] rightrotate 7) xor (w[i-15] rightrotate 18) xor (w[i-15] rightshift 3)
-        s1 := (w[i-2] rightrotate 17) xor (w[i-2] rightrotate 19) xor (w[i-2] rightshift 10)
-        w[i] := w[i-16] + s0 + w[i-7] + s1
-
  Initialize working variables to current hash value:
 
 Compression function main loop:
