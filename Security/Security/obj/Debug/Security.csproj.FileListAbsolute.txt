@@ -1,0 +1,6 @@
+D:\Tobias\Schule\Robp_gesamt\Robpc#\Libary\Security\Security\bin\Debug\SecurityLibary.dll
+D:\Tobias\Schule\Robp_gesamt\Robpc#\Libary\Security\Security\bin\Debug\SecurityLibary.pdb
+D:\Tobias\Schule\Robp_gesamt\Robpc#\Libary\Security\Security\obj\Debug\Security.csproj.CoreCompileInputs.cache
+D:\Tobias\Schule\Robp_gesamt\Robpc#\Libary\Security\Security\obj\Debug\SecurityLibary.dll
+D:\Tobias\Schule\Robp_gesamt\Robpc#\Libary\Security\Security\obj\Debug\SecurityLibary.pdb
+D:\Tobias\Schule\Robp_gesamt\Robpc#\Libary\Security\Security\obj\Debug\Security.csprojResolveAssemblyReference.cache
