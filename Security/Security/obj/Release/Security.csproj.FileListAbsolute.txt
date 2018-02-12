@@ -1,5 +1,0 @@
-D:\Tobias\Schule\Robp_gesamt\Robpc#\Libary\Security\Security\bin\Release\SecurityLibary.dll
-D:\Tobias\Schule\Robp_gesamt\Robpc#\Libary\Security\Security\bin\Release\SecurityLibary.pdb
-D:\Tobias\Schule\Robp_gesamt\Robpc#\Libary\Security\Security\obj\Release\Security.csproj.CoreCompileInputs.cache
-D:\Tobias\Schule\Robp_gesamt\Robpc#\Libary\Security\Security\obj\Release\SecurityLibary.dll
-D:\Tobias\Schule\Robp_gesamt\Robpc#\Libary\Security\Security\obj\Release\SecurityLibary.pdb
